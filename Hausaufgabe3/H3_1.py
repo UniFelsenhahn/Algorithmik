@@ -61,16 +61,21 @@ class Queue():
 
     def list_to_queue(self, list):
         pass
+        ####Hier wird Code geschrieben
 
     def queue_to_list(self):
         pass
-
+         ####Hier wird Code geschrieben
     def undequeue(self, value):
         pass
-
+         ####Hier wird Code geschrieben
     def unenqueue(self):
         pass
+         ####Hier wird Code geschrieben
 
+
+
+         
 # test code
 q = Queue()
 q.enqueue(42)
